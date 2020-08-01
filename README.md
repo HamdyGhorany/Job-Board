@@ -1,1 +1,1 @@
-# Django-Job-Board
+# Job-Board
